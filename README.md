@@ -1,7 +1,5 @@
-progman.task
-i create stuff
-she/her
-lucky star fan :star:
+progman.task    i create things
+
 
 <!---
 MakiDevelops/MakiDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
