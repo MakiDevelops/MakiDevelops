@@ -1,8 +1,7 @@
-Hey, I'm MakiDevelops!
-My pronouns are: She/Her
-I create programs.
-
-Current Profile Link: https://www.facebook.com/photo/?fbid=472737098204886&set=pcb.472737454871517
+progman.task
+i create stuff
+she/her
+lucky star fan :star:
 
 <!---
 MakiDevelops/MakiDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
